@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 </div>
 <div align="center">
-  <h1 border-bottom="none">...</h1>
+  <h1 style="border-bottom:"none">...</h1>
 </div>
 
 <div align="center">
