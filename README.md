@@ -34,6 +34,13 @@
 </div>
 
 <br>
+<!--START_SECTION:waka-->
+<div align="center">
+  
+  [![wakatime](https://wakatime.com/badge/user/018d22d1-4efa-48c1-8d54-431b2ec4d97b.svg)](https://wakatime.com/@018d22d1-4efa-48c1-8d54-431b2ec4d97b)
+</div>
+<!--END_SECTION:waka-->
+
 <br>
 <br>
 
