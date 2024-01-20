@@ -37,6 +37,8 @@
 <!--START_SECTION:waka-->
 <div align="center">
   
+### 🌱 I’m currently learning ...
+
   [![wakatime](https://wakatime.com/badge/user/018d22d1-4efa-48c1-8d54-431b2ec4d97b.svg)](https://wakatime.com/@018d22d1-4efa-48c1-8d54-431b2ec4d97b)
 </div>
 <!--END_SECTION:waka-->
@@ -44,7 +46,7 @@
 <br>
 <br>
 
-<div align="center" style="display:flex">
+<div align="center">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seokachu&show_icons=true)
 
