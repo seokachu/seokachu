@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3>✏️ blog</h3>
-  <a href="https://seokachu.tistory.com" target="_blank">
+  <a href="https://seokachu.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/TISTORY-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
   <br>
