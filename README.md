@@ -1,5 +1,17 @@
 <h1 align="center">🌱a studying junior developer🌱</h1>
 
+
+<div align="center">
+<h3>✏️ blog</h3>
+  <a href="https://seokachu.tistory.com" target="_blank">
+      <img src="https://img.shields.io/badge/TISTORY-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+  <br>
+  <br>
+   <p>•••</p>
+</div>
+
+
 <div align="center">
   <h3>✨My Tech stack✨</h3>
 </div>
@@ -25,8 +37,6 @@
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
   <img src="https://img.shields.io/badge/indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
-
- 
   <br>
   <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
   <img src="https://img.shields.io/badge/lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white">  -->
@@ -35,7 +45,6 @@
  <br>
  <p>•••</p>
 </div>
-
 <div align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokachu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
