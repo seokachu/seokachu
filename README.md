@@ -13,8 +13,16 @@
 
 
 ## <img src="https://github.com/user-attachments/assets/c36bedca-18d8-42a9-8b7f-63e604f594da" width="80"> **About me** 
-<!-- <br> -->
-<img align='right' src='https://avatars.githubusercontent.com/u/116704646?v=4' width="190" height="190">
+<!-- <br>
+<img align='right' src='https://avatars.githubusercontent.com/u/116704646?v=4' width="190" height="190"> -->
+
+
+ <a href="https://mac-os-portfolio-sandy.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Interactive UI-607AFF?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+  
+  <br> 
+<br>
 
 ✏️ **blog**
 
@@ -24,6 +32,8 @@
 <br> 
 <br> 
 <br>
+
+
 
 🔭 **I’m currently learning**
 
