@@ -20,7 +20,7 @@
  <a href="https://mac-os-portfolio-sandy.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/PortFolio-607AFF?style=for-the-badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
    <a href="https://mac-os-portfolio-sandy.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Interactive UI-607AFF?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
